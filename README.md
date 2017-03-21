@@ -20,3 +20,6 @@ npm start
 ~~~~
 NB: Alternatively, you can run `electron .` in the demo-folder - it literally does the same thing.
 From this tutorial: https://app.pluralsight.com/library/courses/electron-fundamentals
+
+### Issues
+If you experience any issues or need help, either open up an issue on github or hit me up on Twitter: twitter.com/buriedstpatrick
