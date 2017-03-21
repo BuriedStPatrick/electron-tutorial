@@ -1,4 +1,4 @@
-# electron-tutorial
+# Electron demos
 A collection of electron projects from a Pluralsight course.
 From this tutorial: https://app.pluralsight.com/library/courses/electron-fundamentals
 
