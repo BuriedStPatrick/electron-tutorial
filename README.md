@@ -12,3 +12,5 @@ Run:
 ~~~~
 npm start
 ~~~~
+
+From this tutorial: https://app.pluralsight.com/library/courses/electron-fundamentals
