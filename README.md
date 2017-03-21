@@ -7,6 +7,7 @@ The commands must be run per demo (in the scope of a package.json-file).
 ### Prerequisites
 * npm (https://nodejs.org/en/download/)
 
+### Startup instructions
 Installing (compiling) a demo:
 ~~~~
 npm install
